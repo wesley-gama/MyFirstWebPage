@@ -6,3 +6,4 @@ The technologies that I've studied and applied in this project:
 - Linux (Ubuntu): focusing on command line interface;
 - Vim: as the "ubiquitous text editor";
 - HTML5 and CCS3
+- Git
